@@ -1,4 +1,4 @@
-<head>
+<head> 
 <meta name="robots" content="noindex, nofollow">
 <div class="avatar">
 <img src="https://rb.gy/e0827u" />
